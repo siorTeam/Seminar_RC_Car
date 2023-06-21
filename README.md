@@ -1,6 +1,6 @@
 # Robot Car Seminar
 
-## 2023-1 
+## version 1 (2023-1)
 2023 부회장 이승우 진행
 
 ![KakaoTalk_20230621_153932712](https://github.com/siorTeam/seminar_robotCar/assets/115550749/8c6b0e22-0684-466e-a092-7995e0bd2abf)
