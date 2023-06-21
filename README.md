@@ -15,6 +15,6 @@
   - [`세미나 자료`](resource) : RC Car 세미나 자료
 - Code
   - [`RC Car`](src/v1_rccar_seminar.ino) : RC Car 작동 코드
-  - [`DC motor`](src/s_dc) : DC모터 테스트 코드
-  - [`bluetooth`](src/s_bluetooth) : 블루투스-시리얼 열결 테스트 코드
+  - [`DC motor`](src/s_dc.ino) : DC모터 테스트 코드
+  - [`bluetooth`](src/s_bluetooth.ino) : 블루투스-시리얼 열결 테스트 코드
   
